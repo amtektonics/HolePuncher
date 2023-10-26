@@ -1,5 +1,7 @@
 ## HolePunch Plugin
 
+This is a forked repo of [HolePuncher by CreggHanhock](https://github.com/CreggHancock/HolePuncher) updated to work with Godot 4.1.1
+
 The HolePunch plugin can be used in combination with the Server to manage port-forwarding in your game through a method known as hole punching. To get started with the plugin start by importing the addons folder into your Godot game folder and enabling the plugin. Afterwards you can add the HolePunch node to the scene where you utilize matchmaking to begin setting up hole punching for your game.
 
 ### Documentation
